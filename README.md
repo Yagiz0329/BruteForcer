@@ -99,6 +99,18 @@ ________________________________________________________
 └── README.md
 </pre>
 
+### 📄 Modüllerin Açıklamaları
+
+- `main.py`: Komut satırı argümanlarını alır ve uygun brute-force modülünü çalıştırır.
+- `brute_ftp.py`: FTP servislerine brute-force saldırısı yapar.
+- `brute.http.py`: HTTP Basic Auth korumalı web sayfalarına karşı brute-force saldırısı yapar.
+- `brute_ssh.py`: SSH servislerine brute-force saldırısı yapar.
+- `utils.py`: Loglama ve yardımcı araçları barındırır.
+- `requirements.txt`: Python kütüphane bağımlılıkları.
+- `LICENSE`: Yazılım lisans bilgisi.
+- `README.md`: Projenin açıklama ve dökümantasyon dosyası.
+
+
 
 
 
