@@ -1,25 +1,25 @@
 # 🛡️ Bruteforcer - Şifre Kırma ve Zayıf Parola Tespiti Aracı
 Python Bruteforce Tool | License: MIT
 
-_📑 İçerik Tablosu_
+**📑 İçerik Tablosu**
 Giriş ve Amaç
 
 Kullanılan Teknolojiler
 
-Kurulum
+1.Kurulum
 
-Kullanım
+2.Kullanım
 
-Proje Yapısı
+3.Proje Yapısı
 
-Modüllerin Detaylı Açıklamaları
+4.Modüllerin Detaylı Açıklamaları
 
-Tespit Edilen Güvenlik Açıkları
+5.Tespit Edilen Güvenlik Açıkları
 
-Etik Kullanım Uyarısı
+6.Etik Kullanım Uyarısı
 
-Gelecek Geliştirmeler
+7.Gelecek Geliştirmeler
 
-Katkıda Bulunma
+8.Katkıda Bulunma
 
-Lisans
+9.Lisans
