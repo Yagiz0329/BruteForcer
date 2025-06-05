@@ -35,7 +35,8 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 - Python ile güvenlik araçları geliştirmek isteyenler
 
 
-#2. Kullanılan Teknolojiler
+# 2. Kullanılan Teknolojiler
+
 - Python 3.x
 
 - socket, paramiko, requests (Standart ve 3. parti kütüphaneler)
