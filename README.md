@@ -57,9 +57,13 @@ sudo apt update && sudo apt install python3 python3-pip git -y
 ```
 git clone https://github.com/Yagiz0329/Bruteforcer-Tool.git
 cd Bruteforcer-Tool
-pip install -r requirements.txt
 
 ```
+# Python kütüphanelerini yükle
+```
+pip install -r requirements.txt
+```
+
 ## SSH brute-force örneği:
 ```
 python3 main.py -m ssh -t 192.168.1.10 -u root -w wordlist.txt
