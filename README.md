@@ -1,4 +1,4 @@
-🛡️ Bruteforcer - Şifre Kırma ve Zayıf Parola Tespiti Aracı
+# 🛡️ Bruteforcer - Şifre Kırma ve Zayıf Parola Tespiti Aracı
 Python Bruteforce Tool | License: MIT
 
 📑 İçerik Tablosu
