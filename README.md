@@ -19,14 +19,14 @@
 
 Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs.) üzerinde brute-force saldırıları gerçekleştirerek zayıf parolaları tespit edebilen bir güvenlik test aracıdır.
 
-*Hedef:*
+**Hedef:**
 - Parola güvenliğini test etme
 
 - Zayıf parola kullanımını tespit etme
 
 - Eğitim ve araştırma amaçlı kullanımlar
 
-*Hedef Kitle:*
+**Hedef Kitle:**
 
 - Siber güvenliğe ilgi duyanlar
 
