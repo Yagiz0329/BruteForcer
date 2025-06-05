@@ -26,7 +26,7 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 
 - Eğitim ve araştırma amaçlı kullanımlar
 
-** Hedef Kitle:**
+**Hedef Kitle:**
 
 - Siber güvenliğe ilgi duyanlar
 
