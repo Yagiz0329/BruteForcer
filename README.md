@@ -143,6 +143,24 @@ Bu proje halen geliştirilmeye açıktır. Aşağıda planlanan bazı özellikle
 - [ ] 🛡️ IDS/IPS sistemlerine yakalanmamak için zamanlama ve gecikme ayarları (stealth mode)
 - [ ] 🔐 Tespit edilen zayıf kullanıcı/parola kombinasyonlarını şifreli olarak saklama (örneğin: AES ile)
 
+________________________________________________________
+
+### 🤝 Katkıda Bulunma
+
+Bu projeye katkı sağlamak isteyen herkese kapımız açık! 🧠
+
+Aşağıdaki adımları takip ederek katkıda bulunabilirsin:
+
+1. 🔱 Projeyi `fork`la  
+2. 🌿 Yeni bir `branch` oluştur (`feature-x` gibi)
+3. ✍️ Gerekli değişiklikleri yap ve commit et (`git commit -m "Açıklayıcı bir mesaj"`)
+4. 📤 GitHub üzerinden bir `Pull Request` (PR) oluştur
+5. 💬 Herhangi bir hata, öneri veya katkı fikrini `Issues` sekmesinde paylaş
+
+> 💡 Kod standartlarına, proje yapısına ve etik kurallara uymaya özen gösteriniz.
+
+Her katkı, ne kadar küçük olursa olsun değerlidir. Teşekkürler! 🙌
+
 
 
 
