@@ -6,20 +6,20 @@ Giriş ve Amaç
 
 Kullanılan Teknolojiler
 
-1.Kurulum
+- Kurulum
 
-2.Kullanım
+- Kullanım
 
-3.Proje Yapısı
+- Proje Yapısı
 
-4.Modüllerin Detaylı Açıklamaları
+- Modüllerin Detaylı Açıklamaları
 
-5.Tespit Edilen Güvenlik Açıkları
+- Tespit Edilen Güvenlik Açıkları
 
-6.Etik Kullanım Uyarısı
+- Etik Kullanım Uyarısı
 
-7.Gelecek Geliştirmeler
+- Gelecek Geliştirmeler
 
-8.Katkıda Bulunma
+- Katkıda Bulunma
 
-9.Lisans
+- Lisans
