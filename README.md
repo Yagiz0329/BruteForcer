@@ -1,3 +1,4 @@
+```bash
 # 🔓 Bruteforcer - Şifre Kırma ve Zayıf Parola Tespiti Aracı
 
 
