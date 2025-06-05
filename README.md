@@ -48,6 +48,8 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 
 ```
 git clone https://github.com/Yagiz0329/Bruteforcer-Tool.git
+cd Bruteforcer-Tool
+pip install -r requirements.txt
 
 
 
