@@ -34,6 +34,7 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 
 - Python ile güvenlik araçları geliştirmek isteyenler
 
+---------------------------------------------------------
 
 # 2. Kullanılan Teknolojiler
 
@@ -46,6 +47,8 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 - threading
 
 # 3.Kurulum
+
+---------------------------------------------------------
 
 ## Gerekli sistem araçlarını güncelle (Linux için)
 
@@ -63,6 +66,8 @@ cd Bruteforcer-Tool
 ```
 pip install -r requirements.txt
 ```
+---------------------------------------------------------
+
 # 4-Kullanım Örneği
 
 ## SSH brute-force örneği:
@@ -77,6 +82,9 @@ python3 main.py -m ftp -t 192.168.1.10 -u anonymous -w wordlist.txt
 ```
 python3 main.py -m http -t http://192.168.1.10/login.php -u admin -w wordlist.txt
 ```
+---------------------------------------------------------
+
+
 
 
 
