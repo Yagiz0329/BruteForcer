@@ -45,6 +45,7 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 
 - threading
 
+## 3.Kurulum
 
 ```
 git clone https://github.com/Yagiz0329/Bruteforcer-Tool.git
