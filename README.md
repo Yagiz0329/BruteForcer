@@ -53,6 +53,7 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 sudo apt update && sudo apt install python3 python3-pip git -y
 
 ```
+## Projeyi GitHub'dan klonla
 ```
 git clone https://github.com/Yagiz0329/Bruteforcer-Tool.git
 cd Bruteforcer-Tool
