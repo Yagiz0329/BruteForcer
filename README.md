@@ -118,6 +118,19 @@ ________________________________________________________
 
 ________________________________________________________
 
+### ⚠️ Etik ve Yasal Kullanım Uyarısı
+
+**Bu araç yalnızca eğitim, araştırma ve yetkili güvenlik testleri amacıyla geliştirilmiştir.**
+
+Kullanım sırasında lütfen aşağıdaki kurallara uyunuz:
+
+- ✅ **Sadece size ait** sistemlerde veya **açık ve yazılı izin alınmış** hedeflerde test yapınız.  
+- ❌ İzinsiz olarak üçüncü şahısların sistemlerinde kullanmak **etik dışı** ve birçok ülkede **yasalara aykırıdır**.
+- ✅ Siber güvenlik farkındalığı oluşturmak ve zayıf parola politikalarını tespit etmek amacıyla kullanınız.
+- ❌ Bu aracı kötüye kullanmanızdan doğacak **hiçbir sorumluluk geliştiriciye ait değildir.**
+
+> 📢 **Not:** Bu proje, siber güvenlik eğitimine katkı sağlamak amacıyla açık kaynaklı olarak paylaşılmıştır.
+
 
 
 
