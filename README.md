@@ -129,7 +129,20 @@ Kullanım sırasında lütfen aşağıdaki kurallara uyunuz:
 - ✅ Siber güvenlik farkındalığı oluşturmak ve zayıf parola politikalarını tespit etmek amacıyla kullanınız.
 - ❌ Bu aracı kötüye kullanmanızdan doğacak **hiçbir sorumluluk geliştiriciye ait değildir.**
 
-> 📢 **Not:** Bu proje, siber güvenlik eğitimine katkı sağlamak amacıyla açık kaynaklı olarak paylaşılmıştır.
+________________________________________________________
+
+### 🌱 Gelecek Geliştirmeler
+
+Bu proje halen geliştirilmeye açıktır. Aşağıda planlanan bazı özellikler listelenmiştir:
+
+- [ ] 🌐 Web arayüzü (Flask ile basit GUI panel)
+- [ ] 🧠 Zayıf parolaları tahmin etmek için yapay zeka/ML entegrasyonu
+- [ ] 📊 Brute-force sonuçları için detaylı loglama ve görselleştirme (grafikler, JSON/CSV çıktılar)
+- [ ] 🔁 Çoklu hedefler için otomatik tarama (örneğin: IP aralığına karşı SSH brute-force)
+- [ ] 📦 Docker desteği ile hızlı kurulum (docker-compose.yml)
+- [ ] 🛡️ IDS/IPS sistemlerine yakalanmamak için zamanlama ve gecikme ayarları (stealth mode)
+- [ ] 🔐 Tespit edilen zayıf kullanıcı/parola kombinasyonlarını şifreli olarak saklama (örneğin: AES ile)
+
 
 
 
