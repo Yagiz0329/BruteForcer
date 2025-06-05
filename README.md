@@ -53,7 +53,7 @@ cd Bruteforcer-Tool
 pip install -r requirements.txt
 
 ```
-# SSH brute-force örneği:
+## SSH brute-force örneği:
 ```
 python3 main.py -m ssh -t 192.168.1.10 -u root -w wordlist.txt
 
