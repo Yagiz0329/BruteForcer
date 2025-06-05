@@ -15,7 +15,7 @@
 - [Katkıda Bulunma](#katkıda-bulunma)
 - [Lisans](#lisans)
 
-## 1. Giriş Ve Amaç
+## 🎯1. Giriş Ve Amaç
 
 Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs.) üzerinde brute-force saldırıları gerçekleştirerek zayıf parolaları tespit edebilen bir güvenlik test aracıdır.
 
@@ -32,14 +32,14 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 
 ________________________________________________________
 
-## 2. Kullanılan Teknolojiler
+## 💻2. Kullanılan Teknolojiler
 
 - Python 3.x
 - socket, paramiko, requests (Standart ve 3. parti kütüphaneler)
 - argparse
 - threading
 
-## 3. Kurulum
+## 🛠️3. Kurulum
 
 ________________________________________________________
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ```
 ________________________________________________________
 
-## 4. Kullanım Örneği
+## 🛠️🛠️4. Kullanım Örneği
 
 ### SSH brute-force örneği:
 ```
@@ -115,6 +115,9 @@ ________________________________________________________
 - FTP Sunucularında Yetkisiz Erişim Riski
 - HTTP Basic Authentication Zayıflığı
 - Servis Yanıtlarına Göre Kullanıcı Bilgisi Sızması
+
+________________________________________________________
+
 
 
 
