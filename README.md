@@ -169,7 +169,7 @@ Bu proje MIT lisansı altındadır. Ayrıntılar için LICENSE dosyasına bakabi
 
 **Yağız Yedier**  
 🔗 GitHub: [github.com/Yagiz0329](https://github.com/Yagiz0329)
-
+🔗 G-Mail: yagizyedier@gmail.com
 
 
 
