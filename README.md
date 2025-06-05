@@ -15,7 +15,7 @@
 - [Katkıda Bulunma](#katkıda-bulunma)
 - [Lisans](#lisans)
 
-## 🎯1. Giriş Ve Amaç
+## 🎯 Giriş Ve Amaç
 
 Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs.) üzerinde brute-force saldırıları gerçekleştirerek zayıf parolaları tespit edebilen bir güvenlik test aracıdır.
 
@@ -32,14 +32,14 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 
 ________________________________________________________
 
-## 💻2. Kullanılan Teknolojiler
+## 💻 Kullanılan Teknolojiler
 
 - Python 3.x
 - socket, paramiko, requests (Standart ve 3. parti kütüphaneler)
 - argparse
 - threading
 
-## 🛠️3. Kurulum
+## 🛠️ Kurulum
 
 ________________________________________________________
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ```
 ________________________________________________________
 
-## 🛠️🛠️4. Kullanım Örneği
+## 🛠️🛠️ Kullanım Örneği
 
 ### SSH brute-force örneği:
 ```
@@ -78,7 +78,7 @@ python3 main.py -m http -t http://192.168.1.10/login.php -u admin -w wordlist.tx
 ```
 ________________________________________________________
 
-### 📂5. Proje Yapısı
+### 📂 Proje Yapısı
 
 <pre>
 📁 Bruteforcer-Tool
@@ -95,7 +95,7 @@ ________________________________________________________
 ________________________________________________________
 
 
-### 📄6. Modüllerin Açıklamaları
+### 📄 Modüllerin Açıklamaları
 
 - `main.py`: Komut satırı argümanlarını alır ve uygun brute-force modülünü çalıştırır.
 - `brute_ftp.py`: FTP servislerine brute-force saldırısı yapar.
@@ -108,7 +108,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-### 🛡️7- Tespit Edilen Güvenlik Açıkları
+### 🛡️ Tespit Edilen Güvenlik Açıkları
 
 - Zayıf Parola Kullanımı
 - SSH Servislerinde Brute-Force'a Açıklık
