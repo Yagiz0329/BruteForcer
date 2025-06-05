@@ -12,9 +12,9 @@
 - [ Tespit Edilen Güvenlik Açıkları](#7-tespit-edilen-güvenlik-açıkları)
 - [ Etik Kullanım Uyarısı](#8-etik-kullanım-uyarısı)
 - [ Gelecek Geliştirmeler](#9-gelecek-geliştirmeler)
-- [ 🤝 Katkıda Bulunma](#10-katkıda-bulunma)
+- [ Katkıda Bulunma](#10-katkıda-bulunma)
 - [ Lisans](#11-lisans)
-- [👨‍💻 Geliştirici](#-geliştirici)
+- [ Geliştirici](#-geliştirici)
 
 ## 🎯 Giriş Ve Amaç
 
