@@ -15,7 +15,7 @@
 - [10. Katkıda Bulunma](#10-katkıda-bulunma)
 - [11. Lisans](#11-lisans)
 - [Geliştirici](#geliştirici)
-- 
+  
 ## 1. Giriş ve Amaç
 
 Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs.) üzerinde brute-force saldırıları gerçekleştirerek zayıf parolaları tespit edebilen bir güvenlik test aracıdır.
