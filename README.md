@@ -2,9 +2,10 @@
 Python Bruteforce Tool | License: MIT
 
 **📑 İçerik Tablosu**
-Giriş ve Amaç
 
-Kullanılan Teknolojiler
+- Giriş ve Amaç
+
+- Kullanılan Teknolojiler
 
 - Kurulum
 
