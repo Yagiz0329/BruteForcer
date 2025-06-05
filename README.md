@@ -110,11 +110,11 @@ ________________________________________________________
 
 ### 🛡️7- Tespit Edilen Güvenlik Açıkları
 
--Zayıf Parola Kullanımı
--SSH Servislerinde Brute-Force'a Açıklık
--FTP Sunucularında Yetkisiz Erişim Riski
--HTTP Basic Authentication Zayıflığı
--Servis Yanıtlarına Göre Kullanıcı Bilgisi Sızması
+- Zayıf Parola Kullanımı
+- SSH Servislerinde Brute-Force'a Açıklık
+- FTP Sunucularında Yetkisiz Erişim Riski
+- HTTP Basic Authentication Zayıflığı
+- Servis Yanıtlarına Göre Kullanıcı Bilgisi Sızması
 
 
 
