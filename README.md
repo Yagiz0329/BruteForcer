@@ -3,20 +3,20 @@
 
 ## 📑 İçindekiler
 
-- [ Giriş ve Amaç](#1-giriş-ve-amaç)
-- [ Kullanılan Teknolojiler](#2-kullanılan-teknolojiler)
-- [ Kurulum](#3-kurulum)
-- [ Kullanım](#4-kullanım)
-- [ Proje Yapısı](#5-proje-yapısı)
-- [ Modül Açıklamaları](#6-modül-açıklamaları)
-- [ Tespit Edilen Güvenlik Açıkları](#7-tespit-edilen-güvenlik-açıkları)
-- [ Etik Kullanım Uyarısı](#8-etik-kullanım-uyarısı)
-- [ Gelecek Geliştirmeler](#9-gelecek-geliştirmeler)
-- [ Katkıda Bulunma](#10-katkıda-bulunma)
-- [ Lisans](#11-lisans)
-- [ Geliştirici](#-geliştirici)
-
-## 🎯 Giriş ve Amaç
+- [1. Giriş ve Amaç](#1-giriş-ve-amaç)
+- [2. Kullanılan Teknolojiler](#2-kullanılan-teknolojiler)
+- [3. Kurulum](#3-kurulum)
+- [4. Kullanım](#4-kullanım)
+- [5. Proje Yapısı](#5-proje-yapısı)
+- [6. Modül Açıklamaları](#6-modül-açıklamaları)
+- [7. Tespit Edilen Güvenlik Açıkları](#7-tespit-edilen-güvenlik-açıkları)
+- [8. Etik Kullanım Uyarısı](#8-etik-kullanım-uyarısı)
+- [9. Gelecek Geliştirmeler](#9-gelecek-geliştirmeler)
+- [10. Katkıda Bulunma](#10-katkıda-bulunma)
+- [11. Lisans](#11-lisans)
+- [Geliştirici](#geliştirici)
+- 
+## 1. Giriş ve Amaç
 
 Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs.) üzerinde brute-force saldırıları gerçekleştirerek zayıf parolaları tespit edebilen bir güvenlik test aracıdır.
 
@@ -33,14 +33,14 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 
 ________________________________________________________
 
-## 💻 Kullanılan Teknolojiler
+## 2. Kullanılan Teknolojiler
 
 - Python 3.x
 - socket, paramiko, requests (Standart ve 3. parti kütüphaneler)
 - argparse
 - threading
 
-## 🛠️ Kurulum
+## 3. Kurulum
 
 ________________________________________________________
 
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```
 ________________________________________________________
 
-## 🛠️🛠️ Kullanım Örneği
+## 4. Kullanım
 
 ### SSH brute-force örneği:
 ```
@@ -79,7 +79,7 @@ python3 main.py -m http -t http://192.168.1.10/login.php -u admin -w wordlist.tx
 ```
 ________________________________________________________
 
-### 📂 Proje Yapısı
+### 5. Proje Yapısı
 
 <pre>
 📁 Bruteforcer-Tool
@@ -96,7 +96,7 @@ ________________________________________________________
 ________________________________________________________
 
 
-### 📄 Modüllerin Açıklamaları
+### 6. Modül Açıklamaları
 
 - `main.py`: Komut satırı argümanlarını alır ve uygun brute-force modülünü çalıştırır.
 - `brute_ftp.py`: FTP servislerine brute-force saldırısı yapar.
@@ -109,7 +109,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-### 🛡️ Tespit Edilen Güvenlik Açıkları
+### 7. Tespit Edilen Güvenlik Açıkları
 
 - Zayıf Parola Kullanımı
 - SSH Servislerinde Brute-Force'a Açıklık
@@ -119,7 +119,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-### ⚠️ Etik ve Yasal Kullanım Uyarısı
+### 8. Etik Kullanım Uyarısı
 
 **Bu araç yalnızca eğitim, araştırma ve yetkili güvenlik testleri amacıyla geliştirilmiştir.**
 
@@ -132,7 +132,7 @@ Kullanım sırasında lütfen aşağıdaki kurallara uyunuz:
 
 ________________________________________________________
 
-### 🌱 Gelecek Geliştirmeler
+### 9. Gelecek Geliştirmeler
 
 Bu proje halen geliştirilmeye açıktır. Aşağıda planlanan bazı özellikler listelenmiştir:
 
@@ -146,7 +146,7 @@ Bu proje halen geliştirilmeye açıktır. Aşağıda planlanan bazı özellikle
 
 ________________________________________________________
 
-### 🤝 Katkıda Bulunma
+### 10. Katkıda Bulunma
 
 Bu projeye katkı sağlamak isteyen herkese kapımız açık! 
 
@@ -160,12 +160,12 @@ Aşağıdaki adımları takip ederek katkıda bulunabilirsin:
 
 ________________________________________________________
 
-## 📄 Lisans
+## 11. Lisans
 Bu proje MIT lisansı altındadır. Ayrıntılar için LICENSE dosyasına bakabilirsiniz.
 
 ---
 
-### 👨‍💻 Geliştirici
+### Geliştirici
 
 **Yağız Yedier**  
 🔗 GitHub: [github.com/Yagiz0329](https://github.com/Yagiz0329)
