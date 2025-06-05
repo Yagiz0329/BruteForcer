@@ -135,13 +135,13 @@ ________________________________________________________
 
 Bu proje halen geliştirilmeye açıktır. Aşağıda planlanan bazı özellikler listelenmiştir:
 
-- [ ] 🌐 Web arayüzü (Flask ile basit GUI panel)
-- [ ] 🧠 Zayıf parolaları tahmin etmek için yapay zeka/ML entegrasyonu
-- [ ] 📊 Brute-force sonuçları için detaylı loglama ve görselleştirme (grafikler, JSON/CSV çıktılar)
-- [ ] 🔁 Çoklu hedefler için otomatik tarama (örneğin: IP aralığına karşı SSH brute-force)
-- [ ] 📦 Docker desteği ile hızlı kurulum (docker-compose.yml)
-- [ ] 🛡️ IDS/IPS sistemlerine yakalanmamak için zamanlama ve gecikme ayarları (stealth mode)
-- [ ] 🔐 Tespit edilen zayıf kullanıcı/parola kombinasyonlarını şifreli olarak saklama (örneğin: AES ile)
+- [ ]  Web arayüzü (Flask ile basit GUI panel)
+- [ ]  Zayıf parolaları tahmin etmek için yapay zeka/ML entegrasyonu
+- [ ]  Brute-force sonuçları için detaylı loglama ve görselleştirme (grafikler, JSON/CSV çıktılar)
+- [ ]  Çoklu hedefler için otomatik tarama (örneğin: IP aralığına karşı SSH brute-force)
+- [ ]  Docker desteği ile hızlı kurulum (docker-compose.yml)
+- [ ]  IDS/IPS sistemlerine yakalanmamak için zamanlama ve gecikme ayarları (stealth mode)
+- [ ]  Tespit edilen zayıf kullanıcı/parola kombinasyonlarını şifreli olarak saklama (örneğin: AES ile)
 
 ________________________________________________________
 
@@ -151,15 +151,11 @@ Bu projeye katkı sağlamak isteyen herkese kapımız açık! 🧠
 
 Aşağıdaki adımları takip ederek katkıda bulunabilirsin:
 
-1. 🔱 Projeyi `fork`la  
-2. 🌿 Yeni bir `branch` oluştur (`feature-x` gibi)
-3. ✍️ Gerekli değişiklikleri yap ve commit et (`git commit -m "Açıklayıcı bir mesaj"`)
-4. 📤 GitHub üzerinden bir `Pull Request` (PR) oluştur
-5. 💬 Herhangi bir hata, öneri veya katkı fikrini `Issues` sekmesinde paylaş
-
-> 💡 Kod standartlarına, proje yapısına ve etik kurallara uymaya özen gösteriniz.
-
-Her katkı, ne kadar küçük olursa olsun değerlidir. Teşekkürler! 🙌
+1.  Projeyi `fork`la  
+2.  Yeni bir `branch` oluştur (`feature-x` gibi)
+3.  Gerekli değişiklikleri yap ve commit et (`git commit -m "Açıklayıcı bir mesaj"`)
+4.  GitHub üzerinden bir `Pull Request` (PR) oluştur
+5.  Herhangi bir hata, öneri veya katkı fikrini `Issues` sekmesinde paylaş
 
 
 
