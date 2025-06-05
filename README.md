@@ -1,4 +1,4 @@
-# 🛡️ Bruteforcer - Şifre Kırma ve Zayıf Parola Tespiti Aracı
+# 🔓 Bruteforcer - Şifre Kırma ve Zayıf Parola Tespiti Aracı
 
 
 ## 📑 İçindekiler
@@ -33,3 +33,16 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 - Penetrasyon testi yapanlar
 
 - Python ile güvenlik araçları geliştirmek isteyenler
+
+
+#2. Kullanılan Teknolojiler
+- Python 3.x
+
+- socket, paramiko, requests (Standart ve 3. parti kütüphaneler)
+
+- argparse
+
+- threading
+
+
+
