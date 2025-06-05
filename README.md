@@ -3,17 +3,17 @@
 
 ## 📑 İçindekiler
 
-- [1. Giriş ve Amaç](#1-giriş-ve-amaç)
-- [2. Kullanılan Teknolojiler](#2-kullanılan-teknolojiler)
-- [3. Kurulum](#3-kurulum)
-- [4. Kullanım](#4-kullanım)
-- [5. Proje Yapısı](#5-proje-yapısı)
-- [6. Modül Açıklamaları](#6-modül-açıklamaları)
-- [7. Tespit Edilen Güvenlik Açıkları](#7-tespit-edilen-güvenlik-açıkları)
-- [8. Etik Kullanım Uyarısı](#8-etik-kullanım-uyarısı)
-- [9. Gelecek Geliştirmeler](#9-gelecek-geliştirmeler)
-- [10. Katkıda Bulunma](#10-katkıda-bulunma)
-- [11. Lisans](#11-lisans)
+- [ Giriş ve Amaç](#1-giriş-ve-amaç)
+- [ Kullanılan Teknolojiler](#2-kullanılan-teknolojiler)
+- [ Kurulum](#3-kurulum)
+- [ Kullanım](#4-kullanım)
+- [ Proje Yapısı](#5-proje-yapısı)
+- [ Modül Açıklamaları](#6-modül-açıklamaları)
+- [ Tespit Edilen Güvenlik Açıkları](#7-tespit-edilen-güvenlik-açıkları)
+- [ Etik Kullanım Uyarısı](#8-etik-kullanım-uyarısı)
+- [ Gelecek Geliştirmeler](#9-gelecek-geliştirmeler)
+- [ Katkıda Bulunma](#10-katkıda-bulunma)
+- [ Lisans](#11-lisans)
 - [👨‍💻 Geliştirici](#-geliştirici)
 
 ## 🎯 Giriş Ve Amaç
