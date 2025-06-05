@@ -46,7 +46,11 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 - threading
 
 ## 3.Kurulum
+```
+# Gerekli sistem araçlarını güncelle (Linux için)
+sudo apt update && sudo apt install python3 python3-pip git -y
 
+```
 ```
 git clone https://github.com/Yagiz0329/Bruteforcer-Tool.git
 cd Bruteforcer-Tool
