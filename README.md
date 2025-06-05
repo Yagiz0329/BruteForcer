@@ -21,17 +21,13 @@ Bu proje, Python diliyle geliştirilmiş, çeşitli servisler (FTP, SSH, HTTP vs
 
 **Hedef:**
 - Parola güvenliğini test etme
-
 - Zayıf parola kullanımını tespit etme
-
 - Eğitim ve araştırma amaçlı kullanımlar
 
 **Hedef Kitle:**
 
 - Siber güvenliğe ilgi duyanlar
-
 - Penetrasyon testi yapanlar
-
 - Python ile güvenlik araçları geliştirmek isteyenler
 
 ________________________________________________________
@@ -39,11 +35,8 @@ ________________________________________________________
 ## 2.Kullanılan Teknolojiler
 
 - Python 3.x
-
 - socket, paramiko, requests (Standart ve 3. parti kütüphaneler)
-
 - argparse
-
 - threading
 
 ## 3.Kurulum
