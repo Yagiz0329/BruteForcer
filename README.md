@@ -59,7 +59,7 @@ git clone https://github.com/Yagiz0329/Bruteforcer-Tool.git
 cd Bruteforcer-Tool
 
 ```
-# Python kütüphanelerini yükle
+## Python kütüphanelerini yükle
 ```
 pip install -r requirements.txt
 ```
