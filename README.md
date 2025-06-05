@@ -162,6 +162,12 @@ ________________________________________________________
 ## 📄 Lisans
 Bu proje MIT lisansı altındadır. Ayrıntılar için LICENSE dosyasına bakabilirsiniz.
 
+---
+
+### 👨‍💻 Geliştirici
+
+**Yağız Yedier**  
+🔗 GitHub: [github.com/Yagiz0329](https://github.com/Yagiz0329)
 
 
 
