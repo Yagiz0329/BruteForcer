@@ -1,8 +1,6 @@
 # 🛡️ Bruteforcer - Şifre Kırma ve Zayıf Parola Tespiti Aracı
 
 
-  📑 İçerik Tablosu 
-
 ## 📑 İçindekiler
 
 - [Giriş ve Amaç](#giriş-ve-amaç)
