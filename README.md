@@ -147,7 +147,7 @@ ________________________________________________________
 
 ### 🤝 Katkıda Bulunma
 
-Bu projeye katkı sağlamak isteyen herkese kapımız açık! 🧠
+Bu projeye katkı sağlamak isteyen herkese kapımız açık! 
 
 Aşağıdaki adımları takip ederek katkıda bulunabilirsin:
 
@@ -156,6 +156,11 @@ Aşağıdaki adımları takip ederek katkıda bulunabilirsin:
 3.  Gerekli değişiklikleri yap ve commit et (`git commit -m "Açıklayıcı bir mesaj"`)
 4.  GitHub üzerinden bir `Pull Request` (PR) oluştur
 5.  Herhangi bir hata, öneri veya katkı fikrini `Issues` sekmesinde paylaş
+
+________________________________________________________
+
+## 📄 Lisans
+Bu proje MIT lisansı altındadır. Ayrıntılar için LICENSE dosyasına bakabilirsiniz.
 
 
 
