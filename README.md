@@ -1,26 +1,19 @@
 # 🛡️ Bruteforcer - Şifre Kırma ve Zayıf Parola Tespiti Aracı
-[Giriş ve Amaç](#giriş-ve-amaç)
+
 
   📑 İçerik Tablosu 
 
-- Giriş ve Amaç
+## 📑 İçindekiler
 
-- Kullanılan Teknolojiler
+- [Giriş ve Amaç](#giriş-ve-amaç)
+- [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
+- [Kurulum](#kurulum)
+- [Kullanım](#kullanım)
+- [Proje Yapısı](#proje-yapısı)
+- [Modüllerin Detaylı Açıklamaları](#modüllerin-detaylı-açıklamaları)
+- [Tespit Edilen Güvenlik Açıkları](#tespit-edilen-güvenlik-açıkları)
+- [Etik Kullanım Uyarısı](#etik-kullanım-uyarısı)
+- [Gelecek Geliştirmeler](#gelecek-geliştirmeler)
+- [Katkıda Bulunma](#katkıda-bulunma)
+- [Lisans](#lisans)
 
-- Kurulum
-
-- Kullanım
-
-- Proje Yapısı
-
-- Modüllerin Detaylı Açıklamaları
-
-- Tespit Edilen Güvenlik Açıkları
-
-- Etik Kullanım Uyarısı
-
-- Gelecek Geliştirmeler
-
-- Katkıda Bulunma
-
-- Lisans
