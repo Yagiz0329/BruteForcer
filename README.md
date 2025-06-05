@@ -85,7 +85,7 @@ python3 main.py -m http -t http://192.168.1.10/login.php -u admin -w wordlist.tx
 ```
 ________________________________________________________
 
-### 📂 Proje Yapısı
+### 📂5-Proje Yapısı
 
 <pre>
 📁 Bruteforcer-Tool
