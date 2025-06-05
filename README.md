@@ -63,5 +63,16 @@ pip install -r requirements.txt
 ## SSH brute-force örneği:
 ```
 python3 main.py -m ssh -t 192.168.1.10 -u root -w wordlist.txt
+```
+## FTP brute-force örneği:
+```
+python3 main.py -m ftp -t 192.168.1.10 -u anonymous -w wordlist.txt
+```
+## HTTP form brute-force örneği:
+```
+python3 main.py -m http -t http://192.168.1.10/login.php -u admin -w wordlist.txt
+```
+
+
 
 
