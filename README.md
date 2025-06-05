@@ -99,6 +99,9 @@ ________________________________________________________
 └── README.md
 </pre>
 
+________________________________________________________
+
+
 ### 📄 Modüllerin Açıklamaları
 
 - `main.py`: Komut satırı argümanlarını alır ve uygun brute-force modülünü çalıştırır.
@@ -109,6 +112,10 @@ ________________________________________________________
 - `requirements.txt`: Python kütüphane bağımlılıkları.
 - `LICENSE`: Yazılım lisans bilgisi.
 - `README.md`: Projenin açıklama ve dökümantasyon dosyası.
+
+________________________________________________________
+
+
 
 
 
