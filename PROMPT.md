@@ -1,7 +1,7 @@
-✨ Gemini ve Yol Haritası Araçları için Etkili Prompt Oluşturma Rehberi ✨
+# ✨ Gemini ve Yol Haritası Araçları için Etkili Prompt Oluşturma Rehberi ✨
 Bu rehber, projeniz kapsamında derinlemesine araştırma yapmak ve bu araştırmayı detaylı bir yol haritasına dönüştürmek için Gemini ve GROK THINK (veya benzeri bir gelişmiş planlama/yol haritası oluşturma aracı) için nasıl etkili prompt'lar hazırlayacağınızı adım adım açıklar.
 
-🚀 Prompt 1: Gemini ile Derinlemesine Araştırma (Deep Research)
+# 🚀 Prompt 1: Gemini ile Derinlemesine Araştırma (Deep Research)
 Amaç: Belirli bir alan için 2025 yılına ait en son ve en etkili ilk 10 tekniği veya trendi belirlemek.
 
 Neden Önemli? Projenizin geleceğe yönelik ve yenilikçi olmasını sağlamak için en güncel bilgilere ve yaklaşımlara hakim olmak kritik öneme sahiptir.
